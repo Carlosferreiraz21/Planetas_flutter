@@ -75,5 +75,5 @@ build/app/outputs/flutter-apk/app-release.apk
 Este projeto está sob a licença MIT. Sinta-se livre para modificá-lo e usá-lo como quiser. 😊
 
 ---
-Desenvolvido por **Seu Nome** 🚀
+Desenvolvido por **CARLOS HENRIQUE FERREIRA** 🚀
 
